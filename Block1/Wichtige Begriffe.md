@@ -22,7 +22,7 @@ Ein Docker Registry ist ein zentraler Speicherort für Docker Images, z.B. Docke
 
 # Virtuelle Maschine
 
-- Läuft auf einem Hypervisor, einer Emulationssoftware zwischen Hardware und VM.
+- Läuft auf einem Hypervisor, einer Simulationssoftware zwischen Hardware und VM.
 - Jede VM hat ihr eigenes Gastbetriebssystem.
 - Benötigt mehr Ressourcen und ist weniger agil als Container.
 - Der Hypervisor verwaltet die gemeinsame Nutzung physischer Ressourcen.
