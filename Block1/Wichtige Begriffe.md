@@ -16,10 +16,6 @@ Ein Docker Container ist eine Laufzeitinstanz eines Docker Images, die isoliert 
 
 Ein Docker Registry ist ein zentraler Speicherort für Docker Images, z.B. Docker Hub.
 
-
-
-
-
 # Virtuelle Maschine
 
 - Läuft auf einem Hypervisor, einer Simulationssoftware zwischen Hardware und VM.
