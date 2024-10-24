@@ -15,7 +15,7 @@ Dieses Projekt zeigt die Virtualisierung einer Applikation mit Docker. Ziel ist 
 ## Verwendung
 1. Repository klonen:
    ```bash
-   git clone https://github.com/deinbenutzername/docker-virtualisierung.git
+   git clone https://github.com/abelsolomon1/m347.git
 
 In das Projektverzeichnis wechseln:
-cd docker-virtualisierung
+cd m347
