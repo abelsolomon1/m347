@@ -2,7 +2,7 @@
 # Docker Spickzettel – Praktische Prüfung (Bestnote-Edition)
 
 **Hinweis:** Internet erlaubt, aber keine KI. Dieser Spick ist so gebaut, dass du dich auch ohne viel Übung sicher zurechtfindest!
-
+M347 Doku: https://gbssg.gitlab.io/m347/
 ---
 
 ## 1. Grundbegriffe (Kurz & Wichtig)
